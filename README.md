@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/averycameron35/ENSE%20475/_apis/build/status/AveryCameronUofR.pipelines-java?branchName=master)](https://dev.azure.com/averycameron35/ENSE%20475/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
